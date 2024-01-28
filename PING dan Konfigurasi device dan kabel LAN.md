@@ -20,9 +20,11 @@ B. Konfigurasi 2 device
    
    2. Lalu pada ke 2 Laptop kita buka bagian Command prompt dan cek ip masing masing
 
-      <img src="https://github.com/Chioaji/Pembuatan-kabel-LAN-dan-konfigurasi_Sachio-Aji/assets/126127582/6cd37513-8d38-4c60-8d56-4272dbbb4845">
+      <img src="https://github.com/Chioaji/Pembuatan-kabel-LAN-dan-konfigurasi_Sachio-Aji/assets/126127582/6cd37513-8d38-4c60-8d56-4272dbbb4845" width=50% height=50%>
 
-      <img src="https://github.com/Chioaji/Pembuatan-kabel-LAN-dan-konfigurasi_Sachio-Aji/assets/126127582/b5104da6-dcad-4c28-9f32-27a61c289bb6">
+
+      <img src="https://github.com/Chioaji/Pembuatan-kabel-LAN-dan-konfigurasi_Sachio-Aji/assets/126127582/b5104da6-dcad-4c28-9f32-27a61c289bb6" width=50% height=50%>
+
 
    3. Jika sudah mendapat Ip masing masing kita bisa mencoba untuk masuk ke user dari laptop lain dengan command ssh usr@IpAdd usr diisi dengan username device lain dan IpAdd diisi 
       dengan ip address  dari device yg ingin kita konfigurasi
@@ -30,8 +32,21 @@ B. Konfigurasi 2 device
 
           ssh usrname@IpAdd
 
-       ![2Screenshot 2024-01-28 133208](https://github.com/Chioaji/Pembuatan-kabel-LAN-dan-konfigurasi_Sachio-Aji/assets/126127582/4d2836a2-d104-4596-8a99-93f17d306410)
-      
-       ![Screenshot 2024-01-28 131903](https://github.com/Chioaji/Pembuatan-kabel-LAN-dan-konfigurasi_Sachio-Aji/assets/126127582/a8333a13-a8db-4ae5-929e-abb886034a52)
+        <img src="https://github.com/Chioaji/Pembuatan-kabel-LAN-dan-konfigurasi_Sachio-Aji/assets/126127582/4d2836a2-d104-4596-8a99-93f17d306410" width=50% height=50%>
 
-         
+      
+       <img src="https://github.com/Chioaji/Pembuatan-kabel-LAN-dan-konfigurasi_Sachio-Aji/assets/126127582/a8333a13-a8db-4ae5-929e-abb886034a52" width=50% height=50%>
+
+
+   4. Jika kita telah selesai dan ingin keluar dari user bisa dengan command exit
+
+            exit
+
+
+      <img src="https://github.com/Chioaji/Pembuatan-kabel-LAN-dan-konfigurasi_Sachio-Aji/assets/126127582/38420717-55e3-488f-bcde-1b01804150d7" width=50% height=50%>
+
+
+
+       <img src="https://github.com/Chioaji/Pembuatan-kabel-LAN-dan-konfigurasi_Sachio-Aji/assets/126127582/ac9b15e4-c4d9-4ddb-8a15-75129ad14462" width=50% height=50%>
+
+
