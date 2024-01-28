@@ -1,3 +1,6 @@
+Note: untuk melakukan percobaan ini karna kita menggunakan kabel LAN, wifi pada laptop kita harus di nonaktifkan terlebih dahulu
+
+
 A. PING
 
    1. Untuk melakukan PING pada percobaan ini kita menggunakan kabel LAN yang terhubung dari laptop ke router melalui HUB, untuk cek Ping bisa di lakukan dengan cara
@@ -6,6 +9,9 @@ A. PING
                            
 
       <img src="https://github.com/Chioaji/Pembuatan-kabel-LAN-dan-konfigurasi_Sachio-Aji/assets/126127582/843dd1ac-b228-45cf-8fce-3aba6eda5f90" width=50% height=50%>
+
+Note: Apabila saat pengecekan yang muncul adalah "unreachable" maka terdapat masalah pada Jaringan.
+      Apabila yang muncul "Request time out" maka kemungkinan ada masalah di kabel LAN nya
 
    2. Kita juga bisa menggunakan command ping 8.8.8.8 untuk melihat apakah device kita telah terhubung ke network atau belum
 
