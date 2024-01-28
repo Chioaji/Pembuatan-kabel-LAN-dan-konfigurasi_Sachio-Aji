@@ -22,7 +22,7 @@ A. Alat dan bahan yang dibutuhkan
    <img src="https://github.com/Chioaji/Pembuatan-kabel-LAN-dan-konfigurasi_Sachio-Aji/assets/126127582/8ed4cc00-cb54-4d72-a546-f1c54455a1ca" width=30% height=50% >
 
   
-B.Langkah-Langkah
+B. Langkah-Langkah
 
   1. Ambil kabel UTP dan potong kurang lebih sepanjang 1 meter, sebanyak 2 kabel karna kita akan membuat 2 jenis yaitu Straight dan Cross
   
